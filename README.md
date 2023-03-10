@@ -1,7 +1,7 @@
 Most of my waking hours are spent writing dart code :dart:, and rust is nice too 🦀
 
 Interests:
-- ♙ chess and variants
+- ♙&#xFE0F; chess and variants
 - :notes: generative audio
 - :book: language learning
 
