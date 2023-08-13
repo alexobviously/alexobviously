@@ -24,3 +24,5 @@ A nice way to encode nice maps into nice-looking json.
 ### [Cachette](https://github.com/alexobviously/cachette)
 A simple and elegant in-memory cache. 
 
+### [Azure Translation](https://github.com/alexobviously/azure_translation
+A Dart wrapper for interacting with Azure's translation API.
